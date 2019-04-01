@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Theta</title>
+  
+  <subtitle>Still hungry, still foolish...</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://thetachan.com/"/>
+  <updated>2019-04-01T04:49:21.330Z</updated>
+  <id>http://thetachan.com/</id>
+  
+  <author>
+    <name>Theta Chan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>cat test</title>
+    <link href="http://thetachan.com/2019/04/01/cat-test/"/>
+    <id>http://thetachan.com/2019/04/01/cat-test/</id>
+    <published>2019-04-01T03:51:35.000Z</published>
+    <updated>2019-04-01T04:49:21.330Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="that-is-a-test"><a href="#that-is-a-test" class="headerlink" title="that is a test."></a>that is a test.</h1><hr><p>6 </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;that-is-a-test&quot;&gt;&lt;a href=&quot;#that-is-a-test&quot; class=&quot;headerlink&quot; title=&quot;that is a test.&quot;&gt;&lt;/a&gt;that is a test.&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;6 &lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="cat1" scheme="http://thetachan.com/categories/cat1/"/>
+    
+    
+      <category term="tags1" scheme="http://thetachan.com/tags/tags1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://thetachan.com/2019/03/31/editor/"/>
+    <id>http://thetachan.com/2019/03/31/editor/</id>
+    <published>2019-03-31T15:18:10.876Z</published>
+    <updated>2019-04-01T03:51:42.386Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="hexo-editor-test"><a href="#hexo-editor-test" class="headerlink" title="hexo editor test"></a>hexo editor test</h1><h2 id="so"><a href="#so" class="headerlink" title="so"></a>so</h2><p>111</p><h3 id="let-s-see-if-it-could-work"><a href="#let-s-see-if-it-could-work" class="headerlink" title="let`s see if it could work"></a>let`s see if it could work</h3><p>222</p><p><b>so far so good <b></b></b></p><ul><li>1</li><li>0<br>adfadf<br>aaaa<br>aasdfasf</li></ul><a id="more"></a><p>adfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadfadfadfadf<br>adfadf</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;hexo-editor-test&quot;&gt;&lt;a href=&quot;#hexo-editor-test&quot; class=&quot;headerlink&quot; title=&quot;hexo editor test&quot;&gt;&lt;/a&gt;hexo editor test&lt;/h1&gt;&lt;h2 id=&quot;so&quot;&gt;&lt;a href=&quot;#so&quot; class=&quot;headerlink&quot; title=&quot;so&quot;&gt;&lt;/a&gt;so&lt;/h2&gt;&lt;p&gt;111&lt;/p&gt;
+&lt;h3 id=&quot;let-s-see-if-it-could-work&quot;&gt;&lt;a href=&quot;#let-s-see-if-it-could-work&quot; class=&quot;headerlink&quot; title=&quot;let`s see if it could work&quot;&gt;&lt;/a&gt;let`s see if it could work&lt;/h3&gt;&lt;p&gt;222&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;so far so good &lt;b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1&lt;/li&gt;
+&lt;li&gt;0&lt;br&gt;adfadf&lt;br&gt;aaaa&lt;br&gt;aasdfasf&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://thetachan.com/2019/03/30/hello-world/"/>
+    <id>http://thetachan.com/2019/03/30/hello-world/</id>
+    <published>2019-03-30T10:18:42.058Z</published>
+    <updated>2019-03-30T10:18:42.059Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
