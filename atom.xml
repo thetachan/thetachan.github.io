@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://thetachan.github.io/"/>
-  <updated>2019-04-01T04:49:21.330Z</updated>
+  <updated>2019-04-01T16:13:21.456Z</updated>
   <id>http://thetachan.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我先尼玛测试一下图床</title>
+    <link href="http://thetachan.github.io/2019/04/01/%E6%88%91%E5%85%88%E5%B0%BC%E7%8E%9B%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B%E5%9B%BE%E5%BA%8A/"/>
+    <id>http://thetachan.github.io/2019/04/01/我先尼玛测试一下图床/</id>
+    <published>2019-04-01T15:58:57.000Z</published>
+    <updated>2019-04-01T16:13:21.456Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试一下七牛图床"><a href="#测试一下七牛图床" class="headerlink" title="测试一下七牛图床"></a>测试一下七牛图床</h1><p>我就测试下，不行就日了狗了。。。</p><p><img src="http://pp9sk7f39.bkt.clouddn.com/我先尼玛测试一下图床/20190402120215703.png" alt></p><p><img src="http://pp9sk7f39.bkt.clouddn.com/我先尼玛测试一下图床/20190402120427879.png" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;测试一下七牛图床&quot;&gt;&lt;a href=&quot;#测试一下七牛图床&quot; class=&quot;headerlink&quot; title=&quot;测试一下七牛图床&quot;&gt;&lt;/a&gt;测试一下七牛图床&lt;/h1&gt;&lt;p&gt;我就测试下，不行就日了狗了。。。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://pp9sk
+      
+    
+    </summary>
+    
+      <category term="图床测试" scheme="http://thetachan.github.io/categories/%E5%9B%BE%E5%BA%8A%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="测试" scheme="http://thetachan.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>cat test</title>
