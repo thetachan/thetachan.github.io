@@ -5,9 +5,9 @@
   <subtitle>Still hungry, still foolish...</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://thetachan.com/"/>
+  <link href="http://thetachan.github.io/"/>
   <updated>2019-04-01T04:49:21.330Z</updated>
-  <id>http://thetachan.com/</id>
+  <id>http://thetachan.github.io/</id>
   
   <author>
     <name>Theta Chan</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>cat test</title>
-    <link href="http://thetachan.com/2019/04/01/cat-test/"/>
-    <id>http://thetachan.com/2019/04/01/cat-test/</id>
+    <link href="http://thetachan.github.io/2019/04/01/cat-test/"/>
+    <id>http://thetachan.github.io/2019/04/01/cat-test/</id>
     <published>2019-04-01T03:51:35.000Z</published>
     <updated>2019-04-01T04:49:21.330Z</updated>
     
@@ -36,17 +36,17 @@
     
     </summary>
     
-      <category term="cat1" scheme="http://thetachan.com/categories/cat1/"/>
+      <category term="cat1" scheme="http://thetachan.github.io/categories/cat1/"/>
     
     
-      <category term="tags1" scheme="http://thetachan.com/tags/tags1/"/>
+      <category term="tags1" scheme="http://thetachan.github.io/tags/tags1/"/>
     
   </entry>
   
   <entry>
     <title></title>
-    <link href="http://thetachan.com/2019/03/31/editor/"/>
-    <id>http://thetachan.com/2019/03/31/editor/</id>
+    <link href="http://thetachan.github.io/2019/03/31/editor/"/>
+    <id>http://thetachan.github.io/2019/03/31/editor/</id>
     <published>2019-03-31T15:18:10.876Z</published>
     <updated>2019-04-01T03:51:42.386Z</updated>
     
@@ -69,8 +69,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://thetachan.com/2019/03/30/hello-world/"/>
-    <id>http://thetachan.com/2019/03/30/hello-world/</id>
+    <link href="http://thetachan.github.io/2019/03/30/hello-world/"/>
+    <id>http://thetachan.github.io/2019/03/30/hello-world/</id>
     <published>2019-03-30T10:18:42.058Z</published>
     <updated>2019-03-30T10:18:42.059Z</updated>
     
