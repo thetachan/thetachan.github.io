@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://thetachan.github.io/"/>
-  <updated>2019-04-01T16:29:44.351Z</updated>
+  <updated>2019-04-02T09:50:03.746Z</updated>
   <id>http://thetachan.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://thetachan.github.io/2019/04/01/%E6%88%91%E5%85%88%E5%B0%BC%E7%8E%9B%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B%E5%9B%BE%E5%BA%8A/"/>
     <id>http://thetachan.github.io/2019/04/01/我先尼玛测试一下图床/</id>
     <published>2019-04-01T15:58:57.000Z</published>
-    <updated>2019-04-01T16:29:44.351Z</updated>
+    <updated>2019-04-02T09:50:03.746Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="测试一下七牛图床"><a href="#测试一下七牛图床" class="headerlink" title="测试一下七牛图床"></a>测试一下七牛图床</h1><p>我就测试下，不行就日了狗了。。。</p><h2 id="测试水印"><a href="#测试水印" class="headerlink" title="测试水印"></a>测试水印</h2><p><img src="http://pp9sk7f39.bkt.clouddn.com/我先尼玛测试一下图床/20190402122306194.png" alt></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="测试一下七牛图床"><a href="#测试一下七牛图床" class="headerlink" title="测试一下七牛图床"></a>测试一下七牛图床</h1><p>我就测试下，不行就日了狗了。。。</p><h2 id="测试水印"><a href="#测试水印" class="headerlink" title="测试水印"></a>测试水印</h2>]]></content>
     
     <summary type="html">
     
@@ -47,9 +47,9 @@
     <link href="http://thetachan.github.io/2019/04/01/cat-test/"/>
     <id>http://thetachan.github.io/2019/04/01/cat-test/</id>
     <published>2019-04-01T03:51:35.000Z</published>
-    <updated>2019-04-01T04:49:21.330Z</updated>
+    <updated>2019-04-02T09:56:27.075Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="that-is-a-test"><a href="#that-is-a-test" class="headerlink" title="that is a test."></a>that is a test.</h1><hr><p>6 </p>]]></content>
+    <content type="html"><![CDATA[<h1 id="that-is-a-test"><a href="#that-is-a-test" class="headerlink" title="that is a test."></a>that is a test.</h1><hr><p>6 </p><p>aaa<br><img src="http://cdn.itheta.cn/cat-test/20190402055445247.png" alt></p>]]></content>
     
     <summary type="html">
     
@@ -57,7 +57,7 @@
       
         &lt;h1 id=&quot;that-is-a-test&quot;&gt;&lt;a href=&quot;#that-is-a-test&quot; class=&quot;headerlink&quot; title=&quot;that is a test.&quot;&gt;&lt;/a&gt;that is a test.&lt;/h1&gt;&lt;hr&gt;
 &lt;p&gt;6 &lt;/p&gt;
-
+&lt;p&gt;aaa&lt;b
       
     
     </summary>
